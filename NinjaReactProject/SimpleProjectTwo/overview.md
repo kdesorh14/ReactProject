@@ -1,1 +1,1 @@
-demonstration of CSS and wrapping functions in an anonymous function to correctly invoke them.
+practising CSS and wrapping functions in an anonymous function to correctly invoke them.
